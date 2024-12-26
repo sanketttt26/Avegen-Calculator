@@ -1,7 +1,7 @@
-{
+
   "expo": {
-    "name": "CalculatorApp",
-    "slug": "CalculatorApp",
+    "name": "CalcApp",
+    "slug": "CalcApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,14 +20,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.milind_03.CalculatorApp"
+      "package": "com.sanketttt.CalcApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "f3069f31-3ccf-4326-a3bf-f854367a114a"
+        "projectId": "31320525-f5f4-412b-aef1-b05123679755"
       }
     }
   }
